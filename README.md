@@ -1,10 +1,8 @@
 # kickstarter-analysis
 
-
-
-#Analyze a dataset consisting of 4,000 crowdfunding projects to discover hidden trends.
-
 #Overview of Project
+
+Analyze a dataset consisting of 4,000 crowdfunding projects to discover hidden trends.
 
 ###The purpose of this project is to view how different companies fared in relation to their launch dates and their funding goal. 
 In the kickstarter data sheet, we found the number and percentage of successful, failed and canceled campaigns. 
